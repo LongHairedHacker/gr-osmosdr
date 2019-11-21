@@ -200,6 +200,7 @@ message (STATUS "Found Volk: ${volk_FOUND}") ]]#
 find_package(GnuradioIQBalance)
 find_package(UHD)
 find_package(GnuradioUHD)
+find_package(GnuradioIIO)
 find_package(LibOsmoSDR)
 find_package(LibRTLSDR)
 find_package(LibMiriSDR)
